@@ -15,4 +15,3 @@ genApacheConf(){
  echo -e "# Host ${HOME_DIR}$1/$2 :"
 }
 ```
-```
