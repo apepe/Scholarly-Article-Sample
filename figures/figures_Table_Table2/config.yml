@@ -18,3 +18,4 @@ grid:
     - 1
     url: "/users/3/articles/399889/master/file/figures/figures_Table_Table2/figures_Table_Table2.xlsx"
     folder_url: "/users/3/articles/399889/master/folder/figures/figures_Table_Table2"
+    treatFirstLineAsHeader: true
